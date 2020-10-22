@@ -1,0 +1,33 @@
+_repo: Over-There-with-the-Marines-at-Chateau-Thierry_63462
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ralphson, G. Harvey (George Harvey)
+    aliases:
+    - Sherman, Capt. V. T.
+    - Ralphson, George H.
+    - Sherman, V. T.
+    - Ralphson, Capt. George H.
+    - Ralphson, George Harvey
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '849'
+    url: http://www.gutenberg.org/2009/agents/849
+    wikipedia: https://en.wikipedia.org/wiki/George_Harvey_Ralphson
+description: ''
+gutenberg_issued: '2020-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Marine Corps -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France -- Juvenile fiction'
+- !lcsh 'Château-Thierry, Battle of, Château-Thierry, France, 1918 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Over There with the Marines at Chateau Thierry
+url: http://www.gutenberg.org/ebooks/63462
